@@ -1,0 +1,38 @@
+body {
+	background: black;
+	font-size: 100%;
+	TEXT-ALIGN:center;
+}
+hgroup{
+	TEXT-ALIGN:center;
+	color:white;
+}
+
+h4{
+	font-size:1em;
+	position: relative;
+	top:40px;
+	left:-200px;
+}
+.Capital{
+	background: white;
+	color: black;
+}
+#c{
+	margin:50px;	
+	
+}
+button{
+	left: 150px;
+	background: transparent;
+	color:#FFFFFF;
+	text-align: center;
+}
+footer{
+
+	color: #000000;
+}
+footer a{
+	color:#000000;
+}
+
